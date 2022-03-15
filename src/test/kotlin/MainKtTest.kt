@@ -122,6 +122,6 @@ class MainKtTest {
             previousTransfers = previousTransfers
         )
 
-        assertEquals(35_00 ,result)
+        assertEquals(34_00 ,result)
     }
 }
